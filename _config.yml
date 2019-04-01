@@ -37,4 +37,4 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
