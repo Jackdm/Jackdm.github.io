@@ -5,4 +5,4 @@ author: "Jackdm"
 permalink: /about/
 ---
 
-17. I make cool things.
+Seventeen. I make cool things.
