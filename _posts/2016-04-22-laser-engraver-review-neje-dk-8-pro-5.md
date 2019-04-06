@@ -42,4 +42,4 @@ _Jackdm.com engraved sunglasses, with a minor error in the right-hand side of th
 
 Conclusion
 
-In conclusion, this product is not for people who need to make large laser engraved prints, but if you're in the market for a small high-quality laser engraver, this is the product for you. I would also like to note that Gearbest sent this product to me for free (which is pretty cool, thanks Gearbest!) to review .
+In conclusion, this product is not for people who need to make large laser engraved prints, but if you're in the market for a small high-quality laser engraver, this is the product for you. I would also like to note that Gearbest sent this product to me for free (which is pretty cool, thanks Gearbest!) to review.
