@@ -1,3 +1,4 @@
+---
 layout: post
 title: "A brave new virtual world."
 author: "Jack"
