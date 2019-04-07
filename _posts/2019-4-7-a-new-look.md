@@ -14,4 +14,8 @@ In regards to this particular website, it was created as a fork from [https://gi
 
 The reason the Direct Message LLC site is hosted on squarespace as opposed to also being on github is for consumer trust. By hosting on squarespace, consumers can know that their money is being handled by a trusted third party.
 
+Editing posts is pretty cool now, for me, as I do it all from Atom, the best code editor (not sponsored).
+
+![githubimage.PNG](../assets/githubimage.PNG)
+
 Thanks for checking out my stuff, hope you like what I make.
