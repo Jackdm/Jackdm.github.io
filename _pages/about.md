@@ -6,3 +6,7 @@ permalink: /about/
 ---
 
 Seventeen. I make cool things.
+
+This site is where you can find all of my blog posts, project logs, and other stuff.
+
+email: jack@directmessagellc
