@@ -9,8 +9,8 @@ Seventeen. I make cool things.
 
 This site is where you can find all of my blog posts, project logs, and other stuff.
 
-email: jack@directmessagellc.com
+email: [jack@directmessagellc.com](mailto:jack@directmessagellc.com)
 
-instagram: instagram.com/Jackdm
+instagram: [instagram.com/Jackdm](https://instagram.com/Jackdm)
 
-github: github.com/Jackdm
+github: [github.com/Jackdm](https://github.com/Jackdm)
