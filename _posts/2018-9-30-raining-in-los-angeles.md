@@ -6,4 +6,4 @@ author: "Jack"
 
 //I wrote something and felt like drawing something for it.
 
-![RainingInLosAngeles](../assets/RainingInLosAngeles.PNG)
+![raininginlosangeles](../assets/raininginlosangeles.PNG)
