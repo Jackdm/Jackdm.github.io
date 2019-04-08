@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And so it begins"
+title: "Portable Raspi TOR Router"
 author: "Jack"
 ---
 
