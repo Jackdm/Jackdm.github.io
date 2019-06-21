@@ -5,11 +5,11 @@ author: "Jackdm"
 permalink: /about/
 ---
 
-Seventeen. I make cool things.
+Seventeen years old. I make cool things.
 
 This site is where you can find all of my blog posts, project logs, and other stuff.
 
-Below are links to my other stuff on the web. At the top of the page you can find my company (Direct Message LLC), as well as my youtube channel (Apolitical), and all my blog posts.
+Below are links to my other stuff on the web.
 
 email: [jack@directmessagellc.com](mailto:jack@directmessagellc.com)
 
