@@ -15,6 +15,8 @@ email: [jack@directmessagellc.com](mailto:jack@directmessagellc.com)
 
 instagram: [instagram.com/Jackdm](https://instagram.com/Jackdm)
 
+twitter: [twitter.com/JackDMcCoy](https://twitter.com/JackDMcCoy)
+
 github: [github.com/Jackdm](https://github.com/Jackdm)
 
 hackaday (the blog has the same projects as posted there, but in case you're interested): [https://hackaday.io/jackdm](https://hackaday.io/Jackdm)
