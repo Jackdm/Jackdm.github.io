@@ -1,6 +1,6 @@
 # Site settings
 title:          Jackdm
-description:    "Minimal Jekyll theme for storytellers"
+description:    "a blog"
 url:            "https://jackdm.github.io"
 
 # Google Analytics
@@ -32,6 +32,6 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
-
+paginator_path: "posts/page:num"
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
