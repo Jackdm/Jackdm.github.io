@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "ICAM Portfolio"
 author: "Jackdm"
 permalink: /icam/
 ---
